@@ -54,13 +54,14 @@
 
 📊 Analíticas de GitHub
 --------
-<p align="center" style="display: flex; gap: 20px;">
+<p align="center">
   <a href="http://www.github.com/josseline534" style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api?username=josseline534&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=f97316&text_color=ffffff&icon_color=64748b&bg_color=0f172a&hide_border=true&show_icons=true"
          alt="josseline534's GitHub stats"
          style="width: 100%; border: 2px solid white; border-radius: 15px;" />
   </a>
-
+</p>
+<p align="center">
   <a href="https://github.com/josseline534" style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josseline534&langs_count=10&layout=compact&hide=python,roff,powershell,batchfile,scss,css,html&title_color=f9731661161e&text_color=ffffff&icon_color=64748b&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages"
          alt="Top Languages"
