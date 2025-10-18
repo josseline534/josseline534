@@ -1,7 +1,8 @@
 ¡Bienvenid@ a mi espacio de crecimiento y código! Soy![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) JossCode
 ==========================================================================================================================================
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=13&text=Desarrolladora%20backend%20-nl-y%20creadora%20de%20contenido&textBg=false&fontSize=40&section=header&fontAlignY=33&descAlign=62" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=13&text=Desarrolladora%20backend%20-nl-y%20creadora%20de%20contenido&textBg=false&fontSize=40&section=header&fontAlignY=33&descAlign=62" />
+</p>
 
 💫 Apasionada por el código limpio, la automatización y la innovación. Creadora de contenido que disfruta compartir aprendizajes y crecer junto a la comunidad tech.
 
